@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🧑‍💻 < Développeur pluridisciplinaire, la passion du code est devenu pour moi, un projet d'avenir sérieux. />
+🧑‍💻 < Multidisciplinary developer, the passion for code has become for me, a serious project for the future. />
 
-📚 < sortie d'un BTS SIO et toujours autodidacte, je poursuis mon aventure dans le développement web depuis maintenant 3 ans. /> 
+📚 < Having graduated from a BTS SIO and still self-taught, I've been pursuing my adventure in web development for 3 years now. />
 
-🔥 < Je vous propose aujourd'hui un espace web dédié et personnalisé pour communiquer sur votre marque et lui apporter en visibilité, avec une communication rapide et transparente jusqu'à satisfaction, un code propre, optimiser, adaptatif, organisé et dans les plus brefs délais. />
+🔥 < Today I'm offering you a dedicated, personalised web space to communicate about your brand and give it visibility, with fast, transparent communication until you're satisfied, clean, optimised, adaptive, organised code as quickly as possible. />
 <!--
 **SAUZET-Leny/SAUZET-Leny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
