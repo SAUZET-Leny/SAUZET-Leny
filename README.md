@@ -1,9 +1,10 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQHGpkLLk7voow/profile-displaybackgroundimage-shrink_200_800/0/1675865008757?e=2147483647&v=beta&t=ggmvsVlJVqZ49H6xLDPuN0x__RIwxuiH9_znGU6q65U)](https://SAUZET-Leny.io)
-<h1 align="center">Hi 👋, I'm SAUZET-Leny</h1>
+[![MasterHead](https://media1.giphy.com/media/FyoaJE2iah7WYeyxWr/giphy.gif?cid=6c09b9529b0j3p0z3dbqa5h1asbg62294zat65h2k4j79ypg&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://SAUZET-Leny.io)
+<h1 align="center">Hi, I'm Lény ! <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 <h3 align="center">Multidisciplinary developer, the passion for code has become for me, a serious project for the future.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/FyoaJE2iah7WYeyxWr/giphy.gif?cid=6c09b9529b0j3p0z3dbqa5h1asbg62294zat65h2k4j79ypg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauzet-leny&label=Profile%20views&color=0e75b6&style=flat" alt="sauzet-leny" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FAJN5ulUUA8pbB2.png">
 
 - 🔭 I’m currently working on [FanForum](https://github.com/SAUZET-Leny/FanForum)
 
@@ -11,13 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [http://ent.btssio.net/leny.sauzet/](http://ent.btssio.net/leny.sauzet/)
 
-- 📝 I regularly write articles on [http://ent.btssio.net/leny.sauzet/](http://ent.btssio.net/leny.sauzet/)
-
-- 💬 Ask me about **Web & Game Dev**
-
 - 📫 How to reach me **leny.sauzet@gmail.com**
-
-- ⚡ Fun fact **I love coockies 🍪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,10 +27,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lenysauzetd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lenysauzetd" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauzet-leny&show_icons=true&locale=en&layout=compact" alt="sauzet-leny" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauzet-leny&show_icons=true&locale=en" alt="sauzet-leny" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauzet-leny&" alt="sauzet-leny" /></p>
 
