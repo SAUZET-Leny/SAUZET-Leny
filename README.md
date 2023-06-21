@@ -50,7 +50,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📗 Bases de données
+## 📗 Databases
 <details>
 <summary>🔎</summary>
 <br/>
@@ -66,7 +66,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 
-## 📘 Outils de développement
+## 📘 Development tools
 <details>
 <summary>🔎</summary>
 <br/>
@@ -93,7 +93,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📙 Frameworks et bibliothèques
+## 📙 Frameworks and libraries
 <details>
 <summary>🔎</summary>
 <br/>
@@ -104,7 +104,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📓 Systèmes d'exploitation
+## 📓 Operating systems
 <details>
 <summary>🔎</summary>
 <br/>
@@ -115,7 +115,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📒 Interfaces de ligne de commande
+## 📒 Command line interfaces
 <details>
 <summary>🔎</summary>
 <br/>
@@ -137,7 +137,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📃 Gestion de projet et organisation
+## 📃 Project management and organisation
 <details>
 <summary>🔎</summary>
 <br/>
