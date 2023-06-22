@@ -1,5 +1,5 @@
 # Hi, I'm Sauzet Lény ! <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><a href="https://github.com/Drackass/Drackass/blob/main/README_fr.md"><img align="right" src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="30px" /></a>
-### full-stack web & windows application designer/developer. 🧑‍💻
+### full-stack Web & Windows application Designer/Developer. 🧑‍💻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
