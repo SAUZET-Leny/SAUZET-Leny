@@ -19,7 +19,7 @@
 
 Hi, I'm [**Sauzet Lény**](http://ent.btssio.net/leny.sauzet/), I'm a student with a passion for IT, particularly in the field of programming and development, both committed and rigorous, passionate about logic and eager to learn, the passion for code has become for me, a serious project for the future.
 
-After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univers-formation/Formations/Post-bac/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers) and still self-taught, I've been pursuing my adventure in web & windows application development for 3 years now.
+After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univers-formation/Formations/Post-bac/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers) and still self-taught, I've been pursuing my adventure in **web** & **windows** application development for 3 years now.
 
 > 🔥 Today, I'm offering you a dedicated, personalised space to communicate about your brand and give it visibility, with fast, transparent communication until you're satisfied, with clean, optimised, adaptable code organised as quickly as possible.
 
