@@ -1,5 +1,5 @@
-# Hi, I'm Sauzet Lény ! <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><a href="https://github.com/Drackass/Drackass/blob/main/README_fr.md"><img align="right" src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="30px" /></a>
-### full-stack web & windows application designer/developer. 🧑‍💻
+# Salut, je m'appelle Sauzet Lény ! <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><a href="https://github.com/Drackass/Drackass/blob/main/README.md"><img align="right" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="30px" /></a>
+### Concepteur/Développeur d'applications Web et Windows. 🧑‍💻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
@@ -17,15 +17,15 @@
 ![GitHub Followers](https://img.shields.io/github/followers/drackass?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/drackass?style=social)
 
-Hi, I'm [**Sauzet Lény**](http://ent.btssio.net/leny.sauzet/), I'm a student with a passion for IT, particularly in the field of programming and development, both committed and rigorous, passionate about logic and eager to learn, the passion for code has become for me, a serious project for the future.
+Bonjour, je suis [**Sauzet Lény**](http://ent.btssio.net/leny.sauzet/), je suis un étudiant passionné par l'informatique, notamment dans le domaine de la programmation et du développement, à la fois engagé et rigoureux, passionné de logique et avide d'apprendre, la passion du code est devenue pour moi, un projet sérieux pour l'avenir.
 
-After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univers-formation/Formations/Post-bac/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers) and still self-taught, I've been pursuing my adventure in **web** & **windows** application development for 3 years now.
+Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univers-formation/Formations/Post-bac/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers) et toujours en autodidacte, je poursuis mon aventure dans le développement d'applications **web** & **windows** depuis maintenant 3 ans.
 
-> 🔥 Today, I'm offering you a dedicated, personalised space to communicate about your brand and give it visibility, with fast, transparent communication until you're satisfied, with clean, optimised, adaptable code organised as quickly as possible.
+> 🔥 Aujourd'hui, je vous propose un espace dédié et personnalisé pour communiquer sur votre marque et lui donner de la visibilité, avec une communication rapide et transparente jusqu'à ce que vous soyez satisfait, avec un code propre, optimisé, adaptable et organisé dans les plus brefs délais.
 
-# 📚 knowledge
+# 📚 Connaissances
 <details>
-<summary><h2>📕 Programming languages</h2></summary>
+<summary><h2>📕 Langages de programmation</h2></summary>
 <br/>
   
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
@@ -53,7 +53,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📗 Databases</h2></summary>
+<summary><h2>📗 Bases de données</h2></summary>
 <br/>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
@@ -68,7 +68,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 
 <details>
-<summary><h2>📘 Development tools</h2></summary>
+<summary><h2>📘 Outils de développement</h2></summary>
 <br/>
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
@@ -94,7 +94,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📙 Frameworks and libraries</h2></summary>
+<summary><h2>📙 Frameworks et bibliothèques</h2></summary>
 <br/>
   
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
@@ -104,7 +104,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📓 Operating systems</h2></summary>
+<summary><h2>📓 Systèmes d'exploitation</h2></summary>
 <br/>
   
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
@@ -114,7 +114,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📒 Command line interfaces</h2></summary>
+<summary><h2>📒 Interfaces de ligne de commande</h2></summary>
 <br/>
   
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=101010)]()
@@ -134,7 +134,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📃 Project management and organisation</h2></summary>
+<summary><h2>📃 Gestion et organisation de projets</h2></summary>
 <br/>
   
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
@@ -156,7 +156,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 <img alt="fancade banner" src="https://github.com/Drackass/Drackass/blob/main/banner-fancade.png">
 
 <details>
-<summary><h2>🕹️ A collection of my personal projects on Fancade</h2></summary>
+<summary><h2>🕹️ Une collection de mes projets personnels sur Fancade</h2></summary>
 <br/>
   
 <table style="width:100%">
@@ -381,4 +381,4 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro+&size=25&pause=2000&color=F7F7F7&background=FFFFFF00&center=true&width=1584&height=40&lines=In+the+world+of+programming%2C+every+bug+is+an+opportunity+to+learn+and+grow.;The+code+is+poetry+in+motion%2C+transforming+abstract+ideas+into+tangible+reality.;The+best+code+is+code+that+needs+no+commentary%2C+because+it+is+so+clear+and+elegant+that+it+speaks+for+itself.;Development+is+an+art+where+the+limits+are+pushed+back+every+day%2C+and+where+imagination+is+the+only+constraint.;The+developer+is+not+a+creator+of+software%2C+but+a+sculptor+of+logic.;In+the+realm+of+development%2C+patience+is+a+virtue%2C+perseverance+is+a+skill+and+passion+is+a+necessity.;Programming+is+a+subtle+dance+between+human+intelligence+and+the+power+of+machines.;Development+is+like+an+infinite+jigsaw+puzzle%3A+each+line+of+code+is+a+piece+that+fits+together+to+create+a+functional+whole.;Code+quality+is+not+measured+by+its+length%2C+but+by+its+clarity+and+its+ability+to+solve+problems.;The+real+power+of+development+lies+in+collaboration%3A+together+we+can+achieve+incredible+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro+&size=25&pause=2001&color=F7F7F7&background=FFFFFF00&center=true&width=2000&height=40&lines=Dans+le+monde+de+la+programmation%2C+chaque+bug+est+une+occasion+d'apprendre+et+de+progresser.;Le+code+est+une+po%C3%A9sie+en+mouvement+qui+transforme+des+id%C3%A9es+abstraites+en+r%C3%A9alit%C3%A9+tangible.;Le+meilleur+code+est+celui+qui+n'a+pas+besoin+de+commentaires%2C+parce+qu'il+est+tellement+clair+et+%C3%A9l%C3%A9gant+qu'il+parle+de+lui-m%C3%AAme.;Le+d%C3%A9veloppement+est+un+art+o%C3%B9+les+limites+sont+repouss%C3%A9es+chaque+jour%2C+et+o%C3%B9+l'imagination+est+la+seule+contrainte.;Le+d%C3%A9veloppeur+n'est+pas+un+cr%C3%A9ateur+de+logiciel%2C+mais+un+sculpteur+de+logique.;Dans+le+domaine+du+d%C3%A9veloppement%2C+la+patience+est+une+vertu%2C+la+pers%C3%A9v%C3%A9rance+est+une+comp%C3%A9tence+et+la+passion+est+une+n%C3%A9cessit%C3%A9.;La+programmation+est+une+danse+subtile+entre+l'intelligence+humaine+et+la+puissance+des+machines.;Le+d%C3%A9veloppement+est+comme+un+puzzle+infini+%3A+chaque+ligne+de+code+est+une+pi%C3%A8ce+qui+s'assemble+pour+cr%C3%A9er+un+ensemble+fonctionnel.;La+qualit%C3%A9+d'un+code+ne+se+mesure+pas+%C3%A0+sa+longueur%2C+mais+%C3%A0+sa+clart%C3%A9+et+%C3%A0+sa+capacit%C3%A9+%C3%A0+r%C3%A9soudre+des+probl%C3%A8mes.;Le+v%C3%A9ritable+pouvoir+du+d%C3%A9veloppement+r%C3%A9side+dans+la+collaboration+%3A+ensemble%2C+nous+pouvons+r%C3%A9aliser+des+choses+incroyables.)](https://git.io/typing-svg)
