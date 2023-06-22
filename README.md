@@ -4,8 +4,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Drackass/Drackass/blob/main/banner-light.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
+  <img alt="Main Banner" src="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
 </picture>
+
+</br>
+</br>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQAR8f6Gq2xdSDdhVAXfWlg?style=social)](https://youtube.com/drackass594?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/drackass?style=social)](https://twitch.com/drackass)
@@ -158,7 +161,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 # Fancade <img align="right" src="https://www.fancade.com/press/fancade-mascot.png" width="45px" />
 
-<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/Drackass/Drackass/blob/main/banner-fancade.png">
+<img alt="fancade banner" src="https://github.com/Drackass/Drackass/blob/main/banner-fancade.png">
 
 ## 🕹️ A collection of my personal projects on Fancade
 
@@ -372,10 +375,10 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </table>
 
 <div align="center">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/Drackass/Drackass/blob/main/me.png">  
+  <img alt="Pixel art of sauzet lény" src="https://github.com/Drackass/Drackass/blob/main/me.png">  
   </br>
   </br>
-  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lenysauzetd"> 
+  <a href="https://www.buymeacoffee.com/lenysauzetd"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" alt="https://www.buymeacoffee.com/lenysauzetd" />
   </a>
 </div>
