@@ -1,4 +1,4 @@
-# Hi, I'm Sauzet Lény ! <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+# Hi, I'm Sauzet Lény ! <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><a href="https://github.com/Drackass/Drackass/blob/main/README_fr.md"><img align="right" src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="30px" /></a>
 ### full-stack web & windows application designer/developer. 🧑‍💻
 
 <picture>
@@ -24,9 +24,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 > 🔥 Today, I'm offering you a dedicated, personalised space to communicate about your brand and give it visibility, with fast, transparent communication until you're satisfied, with clean, optimised, adaptable code organised as quickly as possible.
 
 # 📚 knowledge
-## 📕 Programming languages
 <details>
-<summary>🔎 Programming languages</summary>
+<summary><h2>📕 Programming languages</h2></summary>
 <br/>
   
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
@@ -53,9 +52,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📗 Databases
 <details>
-<summary>🔎 Databases</summary>
+<summary><h2>📗 Databases</h2></summary>
 <br/>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
@@ -69,9 +67,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 
-## 📘 Development tools
 <details>
-<summary>🔎 Development tools</summary>
+<summary><h2>📘 Development tools</h2></summary>
 <br/>
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
@@ -96,9 +93,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📙 Frameworks and libraries
 <details>
-<summary>🔎 Frameworks and libraries</summary>
+<summary><h2>📙 Frameworks and libraries</h2></summary>
 <br/>
   
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
@@ -107,9 +103,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📓 Operating systems
 <details>
-<summary>🔎 Operating systems</summary>
+<summary><h2>📓 Operating systems</h2></summary>
 <br/>
   
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
@@ -118,9 +113,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📒 Command line interfaces
 <details>
-<summary>🔎 Command line interfaces</summary>
+<summary><h2>📒 Command line interfaces</h2></summary>
 <br/>
   
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=101010)]()
@@ -129,9 +123,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📔 Virtualisation
 <details>
-<summary>🔎 Virtualisation</summary>
+<summary><h2>📔 Virtualisation</h2></summary>
 <br/>
   
 [![VM VirtualBox](https://img.shields.io/badge/VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=101010)]()
@@ -140,9 +133,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-## 📃 Project management and organisation
 <details>
-<summary>🔎 Project management and organisation</summary>
+<summary><h2>📃 Project management and organisation</h2></summary>
 <br/>
   
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
@@ -159,13 +151,12 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 ---
 
-# Fancade <img align="right" src="https://www.fancade.com/press/fancade-mascot.png" width="45px" />
+# Fancade <a href="https://www.fancade.com/"><img align="right" src="https://www.fancade.com/press/fancade-mascot.png" width="45px" /></a>
 
 <img alt="fancade banner" src="https://github.com/Drackass/Drackass/blob/main/banner-fancade.png">
 
-## 🕹️ A collection of my personal projects on Fancade
 <details>
-<summary>🔎 All my projects</summary>
+<summary><h2>🕹️ A collection of my personal projects on Fancade</h2></summary>
 <br/>
   
 <table style="width:100%">
@@ -379,7 +370,6 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </details>
 
-
 <div align="center">
   <img alt="Pixel art of sauzet lény" src="https://github.com/Drackass/Drackass/blob/main/me.png">  
   </br>
@@ -388,3 +378,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" alt="https://www.buymeacoffee.com/lenysauzetd" />
   </a>
 </div>
+
+</br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro+&size=25&pause=2000&color=F7F7F7&background=FFFFFF00&center=true&width=1584&height=40&lines=In+the+world+of+programming%2C+every+bug+is+an+opportunity+to+learn+and+grow.;The+code+is+poetry+in+motion%2C+transforming+abstract+ideas+into+tangible+reality.;The+best+code+is+code+that+needs+no+commentary%2C+because+it+is+so+clear+and+elegant+that+it+speaks+for+itself.;Development+is+an+art+where+the+limits+are+pushed+back+every+day%2C+and+where+imagination+is+the+only+constraint.;The+developer+is+not+a+creator+of+software%2C+but+a+sculptor+of+logic.;In+the+realm+of+development%2C+patience+is+a+virtue%2C+perseverance+is+a+skill+and+passion+is+a+necessity.;Programming+is+a+subtle+dance+between+human+intelligence+and+the+power+of+machines.;Development+is+like+an+infinite+jigsaw+puzzle%3A+each+line+of+code+is+a+piece+that+fits+together+to+create+a+functional+whole.;Code+quality+is+not+measured+by+its+length%2C+but+by+its+clarity+and+its+ability+to+solve+problems.;The+real+power+of+development+lies+in+collaboration%3A+together+we+can+achieve+incredible+things.)](https://git.io/typing-svg)
