@@ -1,5 +1,5 @@
 # Hi, I'm Sauzet Lény ! <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
-### Self-taught full-stack web, windows & mobile application designer/developer. 🧑‍💻
+### full-stack web & windows application designer/developer. 🧑‍💻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
@@ -26,7 +26,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 # 📚 knowledge
 ## 📕 Programming languages
 <details>
-<summary>🔎</summary>
+<summary>🔎 Programming languages</summary>
 <br/>
   
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
@@ -55,7 +55,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 ## 📗 Databases
 <details>
-<summary>🔎</summary>
+<summary>🔎 Databases</summary>
 <br/>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
@@ -71,7 +71,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 ## 📘 Development tools
 <details>
-<summary>🔎</summary>
+<summary>🔎 Development tools</summary>
 <br/>
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
@@ -98,7 +98,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 ## 📙 Frameworks and libraries
 <details>
-<summary>🔎</summary>
+<summary>🔎 Frameworks and libraries</summary>
 <br/>
   
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
@@ -109,7 +109,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 ## 📓 Operating systems
 <details>
-<summary>🔎</summary>
+<summary>🔎 Operating systems</summary>
 <br/>
   
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
@@ -120,7 +120,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 ## 📒 Command line interfaces
 <details>
-<summary>🔎</summary>
+<summary>🔎 Command line interfaces</summary>
 <br/>
   
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=101010)]()
@@ -131,7 +131,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 ## 📔 Virtualisation
 <details>
-<summary>🔎</summary>
+<summary>🔎 Virtualisation</summary>
 <br/>
   
 [![VM VirtualBox](https://img.shields.io/badge/VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=101010)]()
@@ -142,7 +142,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 ## 📃 Project management and organisation
 <details>
-<summary>🔎</summary>
+<summary>🔎 Project management and organisation</summary>
 <br/>
   
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
@@ -164,7 +164,10 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 <img alt="fancade banner" src="https://github.com/Drackass/Drackass/blob/main/banner-fancade.png">
 
 ## 🕹️ A collection of my personal projects on Fancade
-
+<details>
+<summary>🔎 All my projects</summary>
+<br/>
+  
 <table style="width:100%">
 <tr>
 <td>
@@ -373,6 +376,9 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </td>
 </tr>
 </table>
+
+</details>
+
 
 <div align="center">
   <img alt="Pixel art of sauzet lény" src="https://github.com/Drackass/Drackass/blob/main/me.png">  
