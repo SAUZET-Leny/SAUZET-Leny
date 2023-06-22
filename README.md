@@ -10,12 +10,13 @@
 </br>
 </br>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQAR8f6Gq2xdSDdhVAXfWlg?style=social)](https://youtube.com/drackass594?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/drackass?style=social)](https://twitch.com/drackass)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-blueviolet?logo=instagram&style=social)](https://www.instagram.com/lenysauzet/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lény-sauzet-931172264/)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=grey)
 ![GitHub Followers](https://img.shields.io/github/followers/drackass?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/drackass?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lény-sauzet-931172264/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-blueviolet?logo=instagram&style=social)](https://www.instagram.com/lenysauzet/)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQAR8f6Gq2xdSDdhVAXfWlg?style=social)](https://youtube.com/drackass594?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/drackass?style=social)](https://twitch.com/drackass)
 
 Hi, I'm [**Sauzet Lény**](http://ent.btssio.net/leny.sauzet/), I'm a student with a passion for IT, particularly in the field of programming and development, both committed and rigorous, passionate about logic and eager to learn, the passion for code has become for me, a serious project for the future.
 
@@ -381,4 +382,4 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro+&size=25&pause=2001&color=656D76&background=FFFFFF00&center=true&width=2000&height=40&lines=In+the+world+of+programming%2C+every+bug+is+an+opportunity+to+learn+and+progress.;Code+is+poetry+in+motion%2C+transforming+abstract+ideas+into+tangible+reality.;The+best+code+is+code+that+needs+no+comment%2C+because+it's+so+clear+and+elegant+that+it+speaks+for+itself.;Development+is+an+art+where+the+limits+are+pushed+back+every+day%2C+and+where+imagination+is+the+only+constraint.;The+developer+is+not+a+creator+of+software%2C+but+a+sculptor+of+logic.;In+development%2C+patience+is+a+virtue%2C+perseverance+is+a+skill+and+passion+is+a+necessity.;Programming+is+a+subtle+dance+between+human+intelligence+and+the+power+of+machines.;Development+is+like+an+infinite+jigsaw+puzzle%3A+each+line+of+code+is+a+piece+that+fits+together+to+create+a+functional+whole.;The+quality+of+a+code+is+not+measured+by+its+length%2C+but+by+its+clarity+and+its+ability+to+solve+problems.;The+real+power+of+development+lies+in+collaboration%3A+together+we+can+achieve+incredible+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro+&size=30&pause=2001&color=656D76&background=FFFFFF00&center=true&width=2000&height=40&lines=In+the+world+of+programming%2C+every+bug+is+an+opportunity+to+learn+and+progress.;Code+is+poetry+in+motion%2C+transforming+abstract+ideas+into+tangible+reality.;The+best+code+is+code+that+needs+no+comment%2C+because+it's+so+clear+and+elegant+that+it+speaks+for+itself.;Development+is+an+art+where+the+limits+are+pushed+back+every+day%2C+and+where+imagination+is+the+only+constraint.;The+developer+is+not+a+creator+of+software%2C+but+a+sculptor+of+logic.;In+development%2C+patience+is+a+virtue%2C+perseverance+is+a+skill+and+passion+is+a+necessity.;Programming+is+a+subtle+dance+between+human+intelligence+and+the+power+of+machines.;Development+is+like+an+infinite+jigsaw+puzzle%3A+each+line+of+code+is+a+piece+that+fits+together+to+create+a+functional+whole.;The+quality+of+a+code+is+not+measured+by+its+length%2C+but+by+its+clarity+and+its+ability+to+solve+problems.;The+real+power+of+development+lies+in+collaboration%3A+together+we+can+achieve+incredible+things.)](https://git.io/typing-svg)
