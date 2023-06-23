@@ -15,7 +15,7 @@
 ![GitHub Followers](https://img.shields.io/github/stars/drackass?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lény-sauzet-931172264/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-blueviolet?logo=instagram&style=social)](https://www.instagram.com/lenysauzet/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQAR8f6Gq2xdSDdhVAXfWlg?style=social)](https://youtube.com/drackass594?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQAR8f6Gq2xdSDdhVAXfWlg?style=social)](https://www.youtube.com/@drack4ss?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/drackass?style=social)](https://twitch.com/drackass)
 
 Bonjour, je suis [**Sauzet Lény**](http://ent.btssio.net/leny.sauzet/), je suis un étudiant passionné par l'informatique, notamment dans le domaine de la programmation et du développement, à la fois engagé et rigoureux, passionné de logique et avide d'apprendre, la passion du code est devenue pour moi, un projet sérieux pour l'avenir.
@@ -66,7 +66,6 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)]()
 
 </details>
-
 
 <details>
 <summary><h2>📘 Outils de développement</h2></summary>
@@ -149,8 +148,6 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 </details>
-
----
 
 # Fancade <a href="https://www.fancade.com/"><img align="right" src="https://www.fancade.com/press/fancade-mascot.png" width="45px" /></a>
 
