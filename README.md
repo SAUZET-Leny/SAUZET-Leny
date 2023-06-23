@@ -1,5 +1,5 @@
 # Hi, I'm Sauzet Lény ! <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><a href="https://github.com/Drackass/Drackass/blob/main/README_fr.md"><img align="right" src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="30px" /></a>
-### full-stack Web & Windows application Designer/Developer. 🧑‍💻
+### Full-stack Web & Windows application Designer/Developer. 🧑‍💻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
@@ -15,7 +15,7 @@
 ![GitHub Followers](https://img.shields.io/github/stars/drackass?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lény-sauzet-931172264/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-blueviolet?logo=instagram&style=social)](https://www.instagram.com/lenysauzet/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQAR8f6Gq2xdSDdhVAXfWlg?style=social)](https://youtube.com/drackass594?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQAR8f6Gq2xdSDdhVAXfWlg?style=social)](https://www.youtube.com/@drack4ss?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/drackass?style=social)](https://twitch.com/drackass)
 
 Hi, I'm [**Sauzet Lény**](http://ent.btssio.net/leny.sauzet/), I'm a student with a passion for IT, particularly in the field of programming and development, both committed and rigorous, passionate about logic and eager to learn, the passion for code has become for me, a serious project for the future.
@@ -66,7 +66,6 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)]()
 
 </details>
-
 
 <details>
 <summary><h2>📘 Development tools</h2></summary>
@@ -149,8 +148,6 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 </details>
-
----
 
 # Fancade <a href="https://www.fancade.com/"><img align="right" src="https://www.fancade.com/press/fancade-mascot.png" width="45px" /></a>
 
