@@ -35,8 +35,6 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 
 [![Visual Basic](https://img.shields.io/badge/Visual%20Basic-6C82B5?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
 
-[![AJAX](https://img.shields.io/badge/AJAX-007396?style=for-the-badge&logo=ajax&logoColor=white)]()
-
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
@@ -49,19 +47,35 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+
+[![Scratch](https://img.shields.io/badge/Scratch-FF9900?style=for-the-badge&logo=scratch&logoColor=white&labelColor=101010)]()
 
 </details>
 
 <details>
-<summary><h2>📗 Bases de données</h2></summary>
+<summary><h2>📗 Bases de données et hébergement cloud</h2></summary>
 <br/>
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)]()
+
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()
 
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
+
+[![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-8892BF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
+
+[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&labelColor=101010)]()
+
+[![AJAX](https://img.shields.io/badge/AJAX-007396?style=for-the-badge&logo=ajax&logoColor=white)]()
+
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&labelColor=101010)]()
 
 </details>
 
@@ -75,27 +89,34 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white&labelColor=101010)]()
 
-[![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-8892BF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=101010)]()
 
-[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&labelColor=101010)]()
+[![Chat GPT](https://img.shields.io/badge/Chat%20GPT-6DB7F7?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)]()
 
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)]()
-
-[![Wamp](https://img.shields.io/badge/Wamp-A9181E?style=for-the-badge&labelColor=101010)]()
+[![Fancade](https://img.shields.io/badge/Fancade-%23fee800?style=for-the-badge&logo=Square&logoColor=white&labelColor=101010)]()
 
 [![UwAmp](https://img.shields.io/badge/UwAmp-2C9ACD?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)]()
+
+[![Wamp](https://img.shields.io/badge/Wamp-f70094?style=for-the-badge&logo=webflow&logoColor=white&labelColor=f70094)]()
 
 </details>
 
 <details>
 <summary><h2>📙 Frameworks et bibliothèques</h2></summary>
 <br/>
-  
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)]()
 
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=38B2AC)]()
+
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=512BD4)]()
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D)]()
+
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B)]()
+
+[![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white&labelColor=4353FF)]()
+
 
 </details>
 
