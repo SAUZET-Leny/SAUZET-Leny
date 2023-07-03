@@ -63,16 +63,12 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)]()
-
 </details>
 
 <details>
 <summary><h2>📘 Outils de développement</h2></summary>
 <br/>
-
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
-
+  
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=101010)]()
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=101010)]()
@@ -83,13 +79,11 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 
 [![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&labelColor=101010)]()
 
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)]()
+
 [![Wamp](https://img.shields.io/badge/Wamp-A9181E?style=for-the-badge&labelColor=101010)]()
 
 [![UwAmp](https://img.shields.io/badge/UwAmp-2C9ACD?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)]()
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 </details>
 
@@ -100,6 +94,8 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=101010)]()
+
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
 
 </details>
 
