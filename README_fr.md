@@ -29,53 +29,53 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary><h2>📕 Langages de programmation</h2></summary>
 <br/>
   
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-058c0b?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=058c0b)]()
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00417b?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00417b)]()
 
-[![Visual Basic](https://img.shields.io/badge/Visual%20Basic-6C82B5?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
+[![Visual Basic](https://img.shields.io/badge/Visual%20Basic-004a85?style=for-the-badge&logo=.net&logoColor=white&labelColor=004a85)]()
 
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
+[![jQuery](https://img.shields.io/badge/jQuery-1064a5?style=for-the-badge&logo=jquery&logoColor=white&labelColor=1064a5)]()
 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-d84924?style=for-the-badge&logo=html5&logoColor=white&labelColor=d84924)]()
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-0066b6?style=for-the-badge&logo=css3&logoColor=white&labelColor=#0066b6)]()
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-4c5789?style=for-the-badge&logo=php&logoColor=white&labelColor=4c5789)]()
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=black&labelColor=ead41c)]()
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-336d9d?style=for-the-badge&logo=python&logoColor=white&labelColor=336d9d)]()
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Node.js](https://img.shields.io/badge/Node.js-539e43?style=for-the-badge&logo=node.js&logoColor=white&labelColor=539e43)]()
 
-[![Scratch](https://img.shields.io/badge/Scratch-FF9900?style=for-the-badge&logo=scratch&logoColor=white&labelColor=101010)]()
+[![Scratch](https://img.shields.io/badge/Scratch-ec9f37?style=for-the-badge&logo=scratch&logoColor=white&labelColor=ec9f37)]()
 
 </details>
 
 <details>
 <summary><h2>📗 Bases de données et hébergement cloud</h2></summary>
 <br/>
+  
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-1d2024?style=for-the-badge&logo=github&logoColor=white&labelColor=1d2024)]()
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-d88700?style=for-the-badge&logo=mysql&logoColor=white&labelColor=d88700)]()
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-cf0513?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=cf0513)]()
 
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)]()
+[![MariaDB](https://img.shields.io/badge/MariaDB-c0765a?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=c0765a)]()
 
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()
+[![Oracle](https://img.shields.io/badge/Oracle-be4331?style=for-the-badge&logo=oracle&logoColor=white&labelColor=be4331)]()
 
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+[![SQLite](https://img.shields.io/badge/SQLite-1398e0?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1398e0)]()
 
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
+[![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-ff9800?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=ff9800)]()
 
-[![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-8892BF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
+[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-328400?style=for-the-badge&labelColor=328400)]()
 
-[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&labelColor=101010)]()
+[![AJAX](https://img.shields.io/badge/AJAX-308bc9?style=for-the-badge&logo=ajax&logoColor=white)]()
 
-[![AJAX](https://img.shields.io/badge/AJAX-007396?style=for-the-badge&logo=ajax&logoColor=white)]()
-
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/SQL-3199da?style=for-the-badge&logoColor=white&labelColor=3199da)]()
 
 </details>
 
@@ -83,19 +83,19 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary><h2>📘 Outils de développement</h2></summary>
 <br/>
   
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=101010)]()
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-662e93?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=662e93)]()
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=101010)]()
+[![VS Code](https://img.shields.io/badge/VS%20Code-038fd6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=038fd6)]()
 
-[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white&labelColor=101010)]()
+[![NetBeans](https://img.shields.io/badge/NetBeans-1a65bc?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white&labelColor=1a65bc)]()
 
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=101010)]()
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-f48024?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=f48024)]()
 
-[![Chat GPT](https://img.shields.io/badge/Chat%20GPT-6DB7F7?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)]()
+[![Chat GPT](https://img.shields.io/badge/Chat%20GPT-15997a?style=for-the-badge&logo=openai&logoColor=white&labelColor=15997a)]()
 
-[![Fancade](https://img.shields.io/badge/Fancade-%23fee800?style=for-the-badge&logo=Square&logoColor=white&labelColor=101010)]()
+[![Fancade](https://img.shields.io/badge/Fancade-%23edaf00?style=for-the-badge&logo=Square&logoColor=white&labelColor=edaf00)]()
 
-[![UwAmp](https://img.shields.io/badge/UwAmp-2C9ACD?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)]()
+[![UwAmp](https://img.shields.io/badge/UwAmp-2e2fad?style=for-the-badge&logo=apache&logoColor=white&labelColor=2e2fad)]()
 
 [![Wamp](https://img.shields.io/badge/Wamp-f70094?style=for-the-badge&logo=webflow&logoColor=white&labelColor=f70094)]()
 
@@ -105,15 +105,15 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary><h2>📙 Frameworks et bibliothèques</h2></summary>
 <br/>
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-553e7a?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=553e7a)]()
 
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=38B2AC)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-01b7d6?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=01b7d6)]()
 
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=512BD4)]()
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-5027d5?style=for-the-badge&logo=.net&logoColor=white&labelColor=5027d5)]()
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D)]()
+[![Arduino](https://img.shields.io/badge/Arduino-00979c?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979c)]()
 
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B)]()
+[![WordPress](https://img.shields.io/badge/WordPress-00769c?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=00769c)]()
 
 [![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white&labelColor=4353FF)]()
 
@@ -124,9 +124,9 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary><h2>📓 Systèmes d'exploitation</h2></summary>
 <br/>
   
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![Linux](https://img.shields.io/badge/Linux-ffb400?style=for-the-badge&logo=linux&logoColor=white&labelColor=ffb400)]()
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+[![Windows](https://img.shields.io/badge/Windows-00afef?style=for-the-badge&logo=windows&logoColor=white&labelColor=00afef)]()
 
 </details>
 
@@ -134,9 +134,9 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary><h2>📒 Interfaces de ligne de commande</h2></summary>
 <br/>
   
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=101010)]()
+[![Bash](https://img.shields.io/badge/Bash-3e474a?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=3e474a)]()
 
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
+[![PowerShell](https://img.shields.io/badge/PowerShell-207bcc?style=for-the-badge&logo=powershell&logoColor=white&labelColor=207bcc)]()
 
 </details>
 
@@ -144,9 +144,9 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary><h2>📔 Virtualisation</h2></summary>
 <br/>
   
-[![VM VirtualBox](https://img.shields.io/badge/VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=101010)]()
+[![VM VirtualBox](https://img.shields.io/badge/VM%20VirtualBox-21416a?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=21416a)]()
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=#2496ed)]()
 
 </details>
 
@@ -154,15 +154,17 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary><h2>📃 Gestion et organisation de projets</h2></summary>
 <br/>
   
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
+[![Notion](https://img.shields.io/badge/Notion-f7f6f3?style=for-the-badge&logo=notion&logoColor=black&labelColor=f7f6f3)]()
 
-[![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
+[![Trello](https://img.shields.io/badge/Trello-0079bf?style=for-the-badge&logo=trello&logoColor=white&labelColor=0079bf)]()
 
-[![Obsidian](https://img.shields.io/badge/Obsidian-16161D?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=101010)]()
+[![Obsidian](https://img.shields.io/badge/Obsidian-4934a1?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=4934a1)]()
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Discord](https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white&labelColor=5662f6)]()
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=f05033)]()
+
+[![GitHub](https://img.shields.io/badge/GitHub-1d2024?style=for-the-badge&logo=github&logoColor=white&labelColor=1d2024)]()
 
 </details>
 
